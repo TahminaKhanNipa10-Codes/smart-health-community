@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Medical Brand Colors -->
+    <color name="medical_teal_primary">#FF0F766E</color>
+    <color name="medical_teal_dark">#FF2DD4BF</color>
+    <color name="medical_teal_container_light">#FFCCFBF1</color>
+    <color name="medical_teal_container_dark">#FF134E4A</color>
+
+    <color name="medical_blue_secondary">#FF0284C7</color>
+    <color name="medical_blue_dark">#FF38BDF8</color>
+    <color name="medical_blue_container_light">#FFE0F2FE</color>
+    <color name="medical_blue_container_dark">#FF0C4A6E</color>
+
+    <color name="medical_green_tertiary">#FF059669</color>
+    <color name="medical_green_dark">#FF34D399</color>
+
+    <!-- High Contrast Backgrounds & Surfaces (Light) -->
+    <color name="medical_bg_light">#FFF8FAFC</color>
+    <color name="medical_surface_light">#FFFFFFFF</color>
+    <color name="medical_surface_variant_light">#FFF1F5F9</color>
+    <color name="medical_text_primary_light">#FF0F172A</color>
+    <color name="medical_text_secondary_light">#FF334155</color>
+    <color name="medical_text_muted_light">#FF64748B</color>
+
+    <!-- High Contrast Backgrounds & Surfaces (Dark) -->
+    <color name="medical_bg_dark">#FF0F172A</color>
+    <color name="medical_surface_dark">#FF1E293B</color>
+    <color name="medical_surface_variant_dark">#FF334155</color>
+    <color name="medical_text_primary_dark">#FFF8FAFC</color>
+    <color name="medical_text_secondary_dark">#FFE2E8F0</color>
+    <color name="medical_text_muted_dark">#FF94A3B8</color>
+
+    <!-- Emergency & Alert Colors -->
+    <color name="emergency_red">#FFDC2626</color>
+    <color name="warning_amber">#FFD97706</color>
+    <color name="success_green">#FF16A34A</color>
+
+    <!-- Standard Base -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
+

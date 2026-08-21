@@ -1,0 +1,6 @@
+{
+  "name": "Smart Health Community",
+  "description": "Comprehensive healthcare and community platform featuring health tracking, medicine reminders, AI health assistant, diet planner, doctor consultations, emergency services, and blood donation network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

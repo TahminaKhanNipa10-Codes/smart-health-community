@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036465685644",
+    "project_id": "smart-health-community-tasa",
+    "storage_bucket": "smart-health-community-tasa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036465685644:android:0a6bf8a21f18095c3ae7a9",
+        "android_client_info": {
+          "package_name": "com.smarthealthcommunity.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8R_FK52c0P60N7FFcqVd66XbF86Mc3wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
